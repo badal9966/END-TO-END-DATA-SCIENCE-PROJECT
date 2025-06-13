@@ -36,3 +36,8 @@ Develop a complete machine learning pipeline from data collection and preprocess
 - pickle
 
 ## OUTPUT
+![Image](https://github.com/user-attachments/assets/1782d539-7da4-4e68-9142-73f1fcdcea34)
+
+![Image](https://github.com/user-attachments/assets/cf5ba0f0-eb61-43d6-8ff9-a814d22b3c77)
+
+![Image](https://github.com/user-attachments/assets/a98d7561-57a6-4745-b1fc-32cba95f8ee5)
